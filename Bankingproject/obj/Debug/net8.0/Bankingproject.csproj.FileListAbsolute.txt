@@ -1,0 +1,14 @@
+C:\Users\S.K.ar22\Bankingproject\bin\Debug\net8.0\Bankingproject.exe
+C:\Users\S.K.ar22\Bankingproject\bin\Debug\net8.0\Bankingproject.deps.json
+C:\Users\S.K.ar22\Bankingproject\bin\Debug\net8.0\Bankingproject.runtimeconfig.json
+C:\Users\S.K.ar22\Bankingproject\bin\Debug\net8.0\Bankingproject.dll
+C:\Users\S.K.ar22\Bankingproject\bin\Debug\net8.0\Bankingproject.pdb
+C:\Users\S.K.ar22\Bankingproject\obj\Debug\net8.0\Bankingproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S.K.ar22\Bankingproject\obj\Debug\net8.0\Bankingproject.AssemblyInfoInputs.cache
+C:\Users\S.K.ar22\Bankingproject\obj\Debug\net8.0\Bankingproject.AssemblyInfo.cs
+C:\Users\S.K.ar22\Bankingproject\obj\Debug\net8.0\Bankingproject.csproj.CoreCompileInputs.cache
+C:\Users\S.K.ar22\Bankingproject\obj\Debug\net8.0\Bankingproject.dll
+C:\Users\S.K.ar22\Bankingproject\obj\Debug\net8.0\refint\Bankingproject.dll
+C:\Users\S.K.ar22\Bankingproject\obj\Debug\net8.0\Bankingproject.pdb
+C:\Users\S.K.ar22\Bankingproject\obj\Debug\net8.0\Bankingproject.genruntimeconfig.cache
+C:\Users\S.K.ar22\Bankingproject\obj\Debug\net8.0\ref\Bankingproject.dll
